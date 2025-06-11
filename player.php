@@ -1,0 +1,1 @@
+{"id":1,"player_num":1525,"guild_num":15,"city_num":3560,"hero_num":60728,"open_status":1,"under_main":0,"port":"8082"}

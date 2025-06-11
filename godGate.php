@@ -1,0 +1,1 @@
+{"gate_1_count":537,"gate_2_count":385,"gate_3_count":344,"gate_4_count":317}

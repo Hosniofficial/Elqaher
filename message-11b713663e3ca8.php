@@ -1,0 +1,1 @@
+No Content: https://web.game.com/api/message.php

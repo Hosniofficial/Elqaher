@@ -1,0 +1,1 @@
+{"food":38,"wood":38,"stone":38,"metal":38,"coin":1000000,"pop":90}
